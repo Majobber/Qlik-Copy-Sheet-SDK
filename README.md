@@ -1,0 +1,1 @@
+# Qlik-Copy-Sheet-SDK
